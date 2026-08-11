@@ -283,22 +283,22 @@ Referral clicks, page visits, payment initiations, and successful donations are 
 ### 🎯 Campaigns
 <img width="959" height="437" alt="Screenshot 2026-08-11 165447" src="https://github.com/user-attachments/assets/ec046493-78c7-4699-b35e-c5dd3faecd6a" />
 
-### Campaign details
+### 📄 Campaign details
 <img width="959" height="439" alt="Screenshot 2026-08-11 165523" src="https://github.com/user-attachments/assets/ca223109-3b82-428b-8450-aa1a28f13924" />
 
-### Login Page
+### 🔐 Login Page
 <img width="959" height="436" alt="Screenshot 2026-08-11 170141" src="https://github.com/user-attachments/assets/e1fd4bd8-1cb9-4968-9c04-911ec0e94e75" />
 
-### User Dashboard
+### 📊 User Dashboard
 <img width="959" height="441" alt="Screenshot 2026-08-11 165801" src="https://github.com/user-attachments/assets/7041c4b4-b31a-4294-b2b6-d24ed7da9103" />
 
-### Referral Center
+### 🎁 Referral Center
 <img width="959" height="439" alt="Screenshot 2026-08-11 165832" src="https://github.com/user-attachments/assets/89002aff-374f-4bd7-9628-fe2ff4fc9f30" />
 
-### Donation Page
+### 💳 Donation Page
 <img width="958" height="440" alt="Screenshot 2026-08-11 170052" src="https://github.com/user-attachments/assets/d7cf62ca-b7d7-4d80-a18c-65ab9700cd2b" />
 
-### Donation Sucessful
+### ✅ Donation Successful
 <img width="959" height="437" alt="Screenshot 2026-08-11 170115" src="https://github.com/user-attachments/assets/5f281124-c4b4-4548-a3b7-419fb57f8857" />
 
 ---
