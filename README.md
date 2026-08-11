@@ -365,24 +365,6 @@ Ensure CORS is configured to allow only the deployed `FRONTEND_URL`.
 
 ---
 
-## 🔑 Demo Credentials
-
-> For demonstration purposes only — never use these in production.
-
-**User Account**
-```
-Email:    demo@naye-pankh.org
-Password: Demo@12345
-```
-
-**Admin Account**
-```
-Email:    admin@naye-pankh.org
-Password: Admin@12345
-```
-
----
-
 ## 📁 Project Structure
 
 ```
