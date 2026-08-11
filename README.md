@@ -80,13 +80,6 @@ The platform is built to feel like a real NGO fundraising SaaS product — not a
 - Notifications, profile management, and settings
 - Milestone badges and a top-fundraiser leaderboard
 
-### Admin Portal
-- Admin dashboard with platform-wide statistics
-- User management (search, activate/deactivate)
-- Campaign management (create, edit, delete, activate/deactivate)
-- Transaction management with CSV/Excel export
-- Referral analytics and downloadable reports
-
 ### Platform-Wide
 - Fully responsive (375px → 1920px) with mobile drawer navigation
 - Accessible (semantic HTML, ARIA labels, keyboard navigation)
