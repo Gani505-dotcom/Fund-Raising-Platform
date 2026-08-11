@@ -13,7 +13,7 @@ A full-stack fundraising and donation management platform built for **NayePankh 
 [![MySQL](https://img.shields.io/badge/MySQL-8.x-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](#license)
 
-[Live Demo](#-live-deployment) · [Report Bug](#-support--contact) · [Request Feature](#-support--contact)
+[Live Demo](#-live-deployment)
 
 </div>
 
