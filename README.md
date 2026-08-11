@@ -352,9 +352,9 @@ Covers: authentication, referral validation, donation creation, payment verifica
 Ensure CORS is configured to allow only the deployed `FRONTEND_URL`.
 
 ### Live Deployment
-- **Frontend:** `https://naye-pankh-fundraising.vercel.app`
+- **Frontend:** `https://fund-raising-platform.vercel.app/`
 - **Backend API:** `https://naye-pankh-api.onrender.com`
-- **Repository:** `https://github.com/<username>/naye-pankh-fundraising`
+- **Repository:** `https://github.com/Gani505-dotcom/Fund-Raising-Platform`
 
 ---
 
