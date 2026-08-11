@@ -308,30 +308,6 @@ cd naye-pankh-fundraising
 cd backend && npm install
 cd ../frontend && npm install
 ```
-
----
-
-## 🔑 Environment Variables
-
-Copy `.env.example` to `.env` in the backend directory and fill in your values:
-
-```env
-PORT=5000
-
-DATABASE_URL=
-
-JWT_SECRET=
-
-RAZORPAY_KEY_ID=
-RAZORPAY_KEY_SECRET=
-
-FRONTEND_URL=
-
-MOCK_PAYMENT=true
-```
-
-> ⚠️ Never commit `.env`, API secrets, database passwords, or payment credentials to version control.
-
 ---
 
 ## ▶️ Running Locally
